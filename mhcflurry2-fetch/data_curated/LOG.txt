@@ -1,0 +1,1132 @@
++ date
+Mon Apr 27 13:37:37 EDT 2020
++ pip freeze
+absl-py==0.7.1
+adjustText==0.7.3
+alabaster==0.7.10
+anaconda-client==1.6.3
+anaconda-navigator==1.6.2
+anaconda-project==0.6.0
+appdirs==1.4.3
+appnope==0.1.0
+appscript==1.0.1
+asn1crypto==0.22.0
+astor==0.8.0
+astroid==2.2.5
+astropy==1.3.2
+Babel==2.4.0
+backports.shutil-get-terminal-size==1.0.0
+beautifulsoup4==4.6.0
+binary==1.0.0
+biopython==1.71
+bitarray==0.8.1
+blaze==0.10.1
+bleach==3.1.0
+bokeh==0.12.5
+boto==2.46.1
+Bottleneck==1.2.1
+cachetools==3.1.1
+certifi==2019.6.16
+cffi==1.10.0
+chardet==3.0.3
+Click==7.0
+cliez==2.1.1
+cloudpickle==0.2.2
+clyent==1.2.2
+colorama==0.3.9
+comb==0.9.10
+contextlib2==0.5.5
+cryptography==1.8.1
+cycler==0.10.0
+Cython==0.25.2
+cytoolz==0.8.2
+dask==1.2.2
+datacache==1.1.5
+datashape==0.5.4
+decorator==4.0.11
+DendroPy==4.4.0
+dill==0.3.1.1
+distributed==1.16.3
+docutils==0.13.1
+entrypoints==0.2.2
+et-xmlfile==1.0.1
+fastcache==1.0.2
+fastcluster==1.1.25
+Flask==1.1.2
+Flask-Cors==3.0.2
+future==0.17.1
+gast==0.2.2
+gevent==1.2.1
+google-api-core==1.13.0
+google-auth==1.6.3
+google-cloud-bigquery==1.17.0
+google-cloud-core==1.0.2
+google-pasta==0.1.8
+google-resumable-media==0.3.2
+googleapis-common-protos==1.6.0
+greenlet==0.4.12
+grpcio==1.20.1
+gtfparse==1.2.0
+h5py==2.10.0
+-e git+git@github.com:openvax/haplocnv.git@97073faf13e2adb6958b62c23f1a4b73333585ec#egg=haplocnv
+HeapDict==1.0.0
+html5lib==0.9999999
+humanize==0.5.1
+idna==2.5
+imagesize==0.7.1
+ipdb==0.12.2
+ipykernel==4.6.1
+ipython==5.3.0
+ipython-genutils==0.2.0
+ipywidgets==6.0.0
+isort==4.3.17
+isovar==0.7.5
+itsdangerous==0.24
+jdcal==1.3
+jedi==0.10.2
+Jinja2==2.11.2
+joblib==0.13.2
+jsonschema==2.6.0
+jupyter==1.0.0
+jupyter-client==5.0.1
+jupyter-console==5.1.0
+jupyter-core==4.3.0
+Keras==2.3.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.3.1
+llvmlite==0.18.0
+locket==0.2.0
+logomaker==0.8
+lxml==3.7.3
+Markdown==3.1.1
+MarkupSafe==0.23
+matplotlib==3.1.2
+mccabe==0.6.1
+memoized-property==1.0.3
+-e git+git@github.com:hammerlab/mhcflurry.git@755451f9d6c003ed2a0f1589b47930e854ddb62b#egg=mhcflurry
+-e git+git@github:hammerlab/mhcnames.git@71694b9d620db68ceee44da1b8422ff436f15bd3#egg=mhcnames
+-e git+git@github:hammerlab/mhctools.git@37395797da5a127621e3d001e846ef07221624ec#egg=mhctools
+mistune==0.7.4
+mock==3.0.5
+mpmath==0.19
+msgpack-python==0.4.8
+multipledispatch==0.4.9
+navigator-updater==0.1.0
+nbconvert==5.1.1
+nbformat==4.3.0
+networkx==1.11
+nltk==3.2.3
+nose==1.3.7
+nose-timer==0.7.5
+notebook==5.0.0
+np-utils==0.5.10.0
+numba==0.33.0
+numexpr==2.6.2
+numpy==1.17.2
+numpydoc==0.9.2
+odo==0.5.0
+olefile==0.44
+openpyxl==2.4.7
+opt-einsum==3.1.0
+packaging==16.8
+pandas==1.0.3
+pandas-flavor==0.2.0
+pandocfilters==1.4.1
+partd==0.3.8
+pathlib2==2.2.1
+patsy==0.5.1
+pbr==4.0.2
+pep8==1.7.0
+-e git+github.com:lasersonlab/pepsyn.git@994f9d402becff47b240371942b4bec0b773f01b#egg=pepsyn
+pexpect==4.2.1
+-e git+git@github:lasersonlab/phip-stat.git@eb9e13238342b097b0a0815dac18ef5658412370#egg=phip_stat
+phylopandas==0.8.0
+pickleshare==0.7.4
+Pillow==4.1.1
+pkginfo==1.5.0.1
+ply==3.10
+progressbar33==2.4
+prompt-toolkit==1.0.14
+protobuf==3.7.1
+psutil==5.6.3
+ptyprocess==0.5.1
+py==1.4.33
+pyasn1==0.4.5
+pyasn1-modules==0.2.5
+pycosat==0.6.2
+pycparser==2.17
+pycrypto==2.6.1
+pycurl==7.43.0
+pydot==1.4.1
+-e git+github:hammerlab/pyensembl.git@03c48f64873c5a706479a1c922dce2c0fb6df672#egg=pyensembl
+pyflakes==1.5.0
+Pygments==2.2.0
+pygpu==0.7.6
+pygtrie==2.3
+pylint==2.3.1
+pyodbc==4.0.16
+-e git+git@github.com:timodonnell/pyopen.git@2729b9d11afb307b54d97e4307997e89533a43a7#egg=pyopen
+pyOpenSSL==17.0.0
+pypandoc==1.4
+pyparsing==2.4.0
+pypinfo==15.0.0
+pysam==0.15.2
+pystan==2.18.1.0
+pytest==3.0.7
+python-dateutil==2.8.0
+pytz==2019.1
+PyVCF==0.6.8
+PyWavelets==0.5.2
+PyYAML==5.1.2
+pyzmq==16.0.2
+QtAwesome==0.4.4
+qtconsole==4.3.0
+QtPy==1.2.1
+readme-renderer==24.0
+requests==2.22.0
+requests-toolbelt==0.9.1
+rope-py3k==0.9.4.post1
+rsa==4.0
+scikit-image==0.13.0
+scikit-learn==0.21.2
+scipy==1.3.1
+seaborn==0.9.0
+sercol==0.1.4
+serializable==0.1.1
+shellinford==0.4.1
+simplegeneric==0.8.1
+simplejson==3.14.0
+singledispatch==3.4.0.3
+six==1.12.0
+sklearn==0.0
+snowballstemmer==1.2.1
+sortedcollections==0.5.3
+sortedcontainers==1.5.7
+Sphinx==2.4.4
+sphinx-autorun==1.1.1
+sphinx-rtd-theme==0.4.3
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-autoprogram==0.1.5
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==1.0.3
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-programoutput==0.15
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.4
+spyder==3.1.4
+SQLAlchemy==1.1.9
+statannot==0.2.2
+statsmodels==0.10.0
+sympy==1.0
+tables==3.6.1
+tabulate==0.8.6
+tblib==1.3.2
+tensorboard==1.15.0
+tensorflow==1.15.0
+tensorflow-estimator==1.15.1
+tensorflow-tensorboard==0.1.8
+termcolor==1.1.0
+terminado==0.6
+testpath==0.3
+Theano==1.0.4
+tinydb==3.13.0
+tinyrecord==0.1.5
+tinytimer==0.0.0
+toolz==0.8.2
+tornado==4.5.1
+tqdm==4.23.4
+traitlets==4.3.2
+twine==2.0.0
+typechecks==0.0.2
+typed-ast==1.3.1
+unicodecsv==0.14.1
+urllib3==1.25.3
+varcode==0.6.6
+wcwidth==0.1.7
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==2.0.0
+wrapt==1.11.1
+xarray==0.15.0
+xlrd==1.2.0
+XlsxWriter==1.2.8
+xlwings==0.10.4
+xlwt==1.2.0
+zict==0.1.2
++ git status
+On branch 1.7.0
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   curate.py
+	modified:   ../models_class1_pan/generate_hyperparameters.py
+	modified:   ../../mhcflurry/downloads.yml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../../docs/=1.15.0,
+	../analysis_motifs/
+
+no changes added to commit (use "git add" and/or "git commit -a")
++ cd /var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T//mhcflurry-downloads-generation/data_curated
++ cp /Users/tim/sinai/git/mhcflurry/downloads-generation/data_curated/curate.py .
++ cp /Users/tim/sinai/git/mhcflurry/downloads-generation/data_curated/curate_ms_by_pmid.py .
+++ mhcflurry-downloads path data_published
++ MS_DIR='/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_published//ms'
++ cp -r '/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_published//ms' .
+++ mhcflurry-downloads path data_published
++ EXPRESSION_DIR='/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_published//expression'
++ cp -r '/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_published//expression' .
++ CURATE_BY_PMID_ARGS=
+++ ls ms
++ for pmid in $(ls ms)
+++ echo --ms-item 23481700 ms/23481700/mcp.M112.024810-2.xls ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 23481700 ms/23481700/mcp.M112.024810-2.xls  '
++ for pmid in $(ls ms)
+++ echo --ms-item 24616531 ms/24616531/sd01.xlsx ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 24616531 ms/24616531/sd01.xlsx  '
++ for pmid in $(ls ms)
+++ echo --ms-item 25576301 ms/25576301/mcp.M114.042812-4.xlsx ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 25576301 ms/25576301/mcp.M114.042812-4.xlsx  '
++ for pmid in $(ls ms)
+++ echo --ms-item 26992070 ms/26992070/pmic12297-sup-0001-supinfo.zip ms/26992070/pmic12297-sup-0001-text.eps ms/26992070/pmic12297-sup-0002-text.eps ms/26992070/pmic12297-sup-0003-text.eps ms/26992070/pmic12297-sup-0004-text.docx ms/26992070/pmic12297-sup-0005-text.docx ms/26992070/pmic12297-sup-0006-text.xlsx ms/26992070/pmic12297-sup-0007-text.xlsx ms/26992070/pmic12297-sup-0008-text.xlsx ms/26992070/pmic12297-sup-0009-text.xlsx ms/26992070/pmic12297-sup-0010-text.xlsx ms/26992070/pmic12297-sup-0011-text.xlsx ms/26992070/pmic12297-sup-0012-text.xlsx ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 26992070 ms/26992070/pmic12297-sup-0001-supinfo.zip ms/26992070/pmic12297-sup-0001-text.eps ms/26992070/pmic12297-sup-0002-text.eps ms/26992070/pmic12297-sup-0003-text.eps ms/26992070/pmic12297-sup-0004-text.docx ms/26992070/pmic12297-sup-0005-text.docx ms/26992070/pmic12297-sup-0006-text.xlsx ms/26992070/pmic12297-sup-0007-text.xlsx ms/26992070/pmic12297-sup-0008-text.xlsx ms/26992070/pmic12297-sup-0009-text.xlsx ms/26992070/pmic12297-sup-0010-text.xlsx ms/26992070/pmic12297-sup-0011-text.xlsx ms/26992070/pmic12297-sup-0012-text.xlsx  '
++ for pmid in $(ls ms)
+++ echo --ms-item 27412690 ms/27412690/mcp.M116.060350-2.xlsx ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 27412690 ms/27412690/mcp.M116.060350-2.xlsx  '
++ for pmid in $(ls ms)
+++ echo --ms-item 27600516 ms/27600516/27600516.peptides.csv ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 27600516 ms/27600516/27600516.peptides.csv  '
++ for pmid in $(ls ms)
+++ echo --ms-item 27869121 ms/27869121/41467_2016_BFncomms13404_MOESM1318_ESM.xlsx ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 27869121 ms/27869121/41467_2016_BFncomms13404_MOESM1318_ESM.xlsx  '
++ for pmid in $(ls ms)
+++ echo --ms-item 28832583 ms/28832583/Dataset1.txt ms/28832583/Dataset2.txt ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 28832583 ms/28832583/Dataset1.txt ms/28832583/Dataset2.txt  '
++ for pmid in $(ls ms)
+++ echo --ms-item 31154438 ms/31154438/zjw006195963st1.xlsx ms/31154438/zjw006195963st2.txt ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 31154438 ms/31154438/zjw006195963st1.xlsx ms/31154438/zjw006195963st2.txt  '
++ for pmid in $(ls ms)
+++ echo --ms-item 31495665 ms/31495665/1-s2.0-S1074761319303632-mmc2.xlsx ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 31495665 ms/31495665/1-s2.0-S1074761319303632-mmc2.xlsx  '
++ for pmid in $(ls ms)
+++ echo --ms-item 31844290 ms/31844290/41587_2019_322_MOESM3_ESM.xlsx ms/31844290/41587_2019_322_MOESM4_ESM.xlsx ' '
++ CURATE_BY_PMID_ARGS+='--ms-item 31844290 ms/31844290/41587_2019_322_MOESM3_ESM.xlsx ms/31844290/41587_2019_322_MOESM4_ESM.xlsx  '
+++ ls expression
++ for item in $(ls expression)
+++ echo --expression-item GSE113126 expression/GSE113126/GSM3097438_IPIMEL056.T1.rna.live.txt.gz expression/GSE113126/GSM3097439_IPIMEL069.T1.rna.live.txt.gz expression/GSE113126/GSM3097440_IPIMEL085.T1.rna.live.txt.gz expression/GSE113126/GSM3097441_IPIMEL108.T1.rna.live.txt.gz expression/GSE113126/GSM3097442_IPIMEL113.T1.rna.live.txt.gz expression/GSE113126/GSM3097443_IPIMEL131.T1.rna.live.txt.gz expression/GSE113126/GSM3097444_IPIMEL149.T1.rna.live.txt.gz expression/GSE113126/GSM3097445_IPIMEL212.T1.rna.live.txt.gz expression/GSE113126/GSM3097446_IPIMEL253.T1.rna.live.txt.gz expression/GSE113126/GSM3097447_IPIMEL274.T1.rna.live.txt.gz expression/GSE113126/GSM3097448_IPIMEL221.T1.rna.live.txt.gz ' '
++ CURATE_BY_PMID_ARGS+='--expression-item GSE113126 expression/GSE113126/GSM3097438_IPIMEL056.T1.rna.live.txt.gz expression/GSE113126/GSM3097439_IPIMEL069.T1.rna.live.txt.gz expression/GSE113126/GSM3097440_IPIMEL085.T1.rna.live.txt.gz expression/GSE113126/GSM3097441_IPIMEL108.T1.rna.live.txt.gz expression/GSE113126/GSM3097442_IPIMEL113.T1.rna.live.txt.gz expression/GSE113126/GSM3097443_IPIMEL131.T1.rna.live.txt.gz expression/GSE113126/GSM3097444_IPIMEL149.T1.rna.live.txt.gz expression/GSE113126/GSM3097445_IPIMEL212.T1.rna.live.txt.gz expression/GSE113126/GSM3097446_IPIMEL253.T1.rna.live.txt.gz expression/GSE113126/GSM3097447_IPIMEL274.T1.rna.live.txt.gz expression/GSE113126/GSM3097448_IPIMEL221.T1.rna.live.txt.gz  '
++ for item in $(ls expression)
+++ echo --expression-item expression-atlas-22460905 expression/expression-atlas-22460905/tpms.tsv ' '
++ CURATE_BY_PMID_ARGS+='--expression-item expression-atlas-22460905 expression/expression-atlas-22460905/tpms.tsv  '
++ for item in $(ls expression)
+++ echo --expression-item human-protein-atlas expression/human-protein-atlas/rna_blood_cell_sample_tpm_m.tsv expression/human-protein-atlas/rna_celline.tsv expression/human-protein-atlas/rna_tissue_gtex.tsv ' '
++ CURATE_BY_PMID_ARGS+='--expression-item human-protein-atlas expression/human-protein-atlas/rna_blood_cell_sample_tpm_m.tsv expression/human-protein-atlas/rna_celline.tsv expression/human-protein-atlas/rna_tissue_gtex.tsv  '
++ python curate_ms_by_pmid.py --ms-item 23481700 ms/23481700/mcp.M112.024810-2.xls --ms-item 24616531 ms/24616531/sd01.xlsx --ms-item 25576301 ms/25576301/mcp.M114.042812-4.xlsx --ms-item 26992070 ms/26992070/pmic12297-sup-0001-supinfo.zip ms/26992070/pmic12297-sup-0001-text.eps ms/26992070/pmic12297-sup-0002-text.eps ms/26992070/pmic12297-sup-0003-text.eps ms/26992070/pmic12297-sup-0004-text.docx ms/26992070/pmic12297-sup-0005-text.docx ms/26992070/pmic12297-sup-0006-text.xlsx ms/26992070/pmic12297-sup-0007-text.xlsx ms/26992070/pmic12297-sup-0008-text.xlsx ms/26992070/pmic12297-sup-0009-text.xlsx ms/26992070/pmic12297-sup-0010-text.xlsx ms/26992070/pmic12297-sup-0011-text.xlsx ms/26992070/pmic12297-sup-0012-text.xlsx --ms-item 27412690 ms/27412690/mcp.M116.060350-2.xlsx --ms-item 27600516 ms/27600516/27600516.peptides.csv --ms-item 27869121 ms/27869121/41467_2016_BFncomms13404_MOESM1318_ESM.xlsx --ms-item 28832583 ms/28832583/Dataset1.txt ms/28832583/Dataset2.txt --ms-item 31154438 ms/31154438/zjw006195963st1.xlsx ms/31154438/zjw006195963st2.txt --ms-item 31495665 ms/31495665/1-s2.0-S1074761319303632-mmc2.xlsx --ms-item 31844290 ms/31844290/41587_2019_322_MOESM3_ESM.xlsx ms/31844290/41587_2019_322_MOESM4_ESM.xlsx --expression-item GSE113126 expression/GSE113126/GSM3097438_IPIMEL056.T1.rna.live.txt.gz expression/GSE113126/GSM3097439_IPIMEL069.T1.rna.live.txt.gz expression/GSE113126/GSM3097440_IPIMEL085.T1.rna.live.txt.gz expression/GSE113126/GSM3097441_IPIMEL108.T1.rna.live.txt.gz expression/GSE113126/GSM3097442_IPIMEL113.T1.rna.live.txt.gz expression/GSE113126/GSM3097443_IPIMEL131.T1.rna.live.txt.gz expression/GSE113126/GSM3097444_IPIMEL149.T1.rna.live.txt.gz expression/GSE113126/GSM3097445_IPIMEL212.T1.rna.live.txt.gz expression/GSE113126/GSM3097446_IPIMEL253.T1.rna.live.txt.gz expression/GSE113126/GSM3097447_IPIMEL274.T1.rna.live.txt.gz expression/GSE113126/GSM3097448_IPIMEL221.T1.rna.live.txt.gz --expression-item expression-atlas-22460905 expression/expression-atlas-22460905/tpms.tsv --expression-item human-protein-atlas expression/human-protein-atlas/rna_blood_cell_sample_tpm_m.tsv expression/human-protein-atlas/rna_celline.tsv expression/human-protein-atlas/rna_tissue_gtex.tsv --ms-out ms.by_pmid.csv --expression-out rna_expression.csv --expression-metadata-out rna_expression.metadata.csv
+Processing expression item 1 of 3 GSE113126 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097438_IPIMEL056.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097439_IPIMEL069.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097440_IPIMEL085.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097441_IPIMEL108.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097442_IPIMEL113.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097443_IPIMEL131.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097444_IPIMEL149.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097445_IPIMEL212.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097446_IPIMEL253.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097447_IPIMEL274.T1.rna.live.txt.gz /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/GSE113126/GSM3097448_IPIMEL221.T1.rna.live.txt.gz
+Processed expression data GSE113126 result dataframes 1
+Index(['sample_type:MELANOMA_MET'], dtype='object')
+Processing expression item 2 of 3 expression_atlas_22460905 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/expression-atlas-22460905/tpms.tsv
+Processed expression data expression_atlas_22460905 result dataframes 1
+Index(['sample_type:B-LCL', 'sample_type:B-CELL', 'sample_type:B721-LIKE',
+       'sample_type:MELANOMA_CELL_LINE', 'sample_type:MELANOMA',
+       'sample_type:A375-LIKE', 'sample_type:KG1-LIKE',
+       'sample_type:FIBROBLAST', 'sample_type:GLIOBLASTOMA_TISSUE',
+       'cell_line:THP-1', 'cell_line:HL-60', 'cell_line:U-87',
+       'cell_line:LNT-229', 'cell_line:T98G', 'cell_line:SK-MEL-5',
+       'cell_line:MEWO', 'cell_line:HCC1937', 'cell_line:HCT116',
+       'cell_line:HCC1143'],
+      dtype='object')
+Processing expression item 3 of 3 human_protein_atlas /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/human-protein-atlas/rna_blood_cell_sample_tpm_m.tsv /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/human-protein-atlas/rna_celline.tsv /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/expression/human-protein-atlas/rna_tissue_gtex.tsv
+Processed expression data human_protein_atlas result dataframes 3
+Index(['sample_type:PBMC', 'sample_type:LEUKAPHERESIS', 'sample_type:TIL'], dtype='object') Index(['cell_line:HELA', 'cell_line:K562', 'cell_line:HEK293',
+       'cell_line:RPMI8226', 'cell_line:EXPI293'],
+      dtype='object') Index(['sample_type:LUNG', 'sample_type:SPLEEN', 'sample_type:OVARY',
+       'sample_type:KIDNEY'],
+      dtype='object')
+Genes in each expression dataframe:  58051 58035 19670 19670 18816
+Genes in merged expression dataframe 60701
+Generating cell line mixtures.
+No cell line, falling back on similar:  A375
+No cell line, falling back on similar:  B721
+No cell line, falling back on similar:  KG1
+No cell line, falling back on similar:  A375
+No cell line, falling back on similar:  A375
+No cell line, falling back on similar:  A375
+No cell line, falling back on similar:  KG1
+Processing MS item 1 of 11 23481700 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/23481700/mcp.M112.024810-2.xls
+*** PMID 23481700: 14274 peptides ***
+Hassan, ..., van Veelen Mol Cell Proteomics 2015 [PMID 23481700]
+Counts by sample id:
+sample_id
+HHC.2015    9121
+JY.2015     5153
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+B-LCL    11511
+Name: peptide, dtype: int64
+****************************
+Processing MS item 2 of 11 24616531 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/24616531/sd01.xlsx
+*** PMID 24616531: 4249 peptides ***
+Mommen, ..., Heck PNAS 2014 [PMID 24616531]
+Counts by sample id:
+sample_id
+24616531    3306
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+B-LCL    3306
+Name: peptide, dtype: int64
+****************************
+Processing MS item 3 of 11 25576301 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/25576301/mcp.M114.042812-4.xlsx
+Entries before dropping samples with unknown alleles 26836
+Entries after dropping samples with unknown alleles 17975
+        peptide sample_id  ...               sample_type cell_line
+2     AAAAAEALA   HCC1937  ...  basal like breast cancer   HCC1937
+4  AAAAASRGVGAK    HCT116  ...           colon carcinoma    HCT116
+5     AAAAATMAL   HCC1937  ...  basal like breast cancer   HCC1937
+
+[3 rows x 8 columns]
+*** PMID 25576301: 17975 peptides ***
+Bassani-Sternberg, ..., Mann Mol Cell Proteomics 2015 [PMID 25576301]
+Counts by sample id:
+sample_id
+FIB        4905
+HCC1143    2652
+HCC1937    4755
+HCT116     3203
+JY         2460
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+B-CELL                      2460
+BASAL LIKE BREAST CANCER    7360
+COLON CARCINOMA             3203
+FIBROBLAST                  4905
+Name: peptide, dtype: int64
+****************************
+Processing MS item 4 of 11 26992070 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0001-supinfo.zip /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0001-text.eps /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0002-text.eps /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0003-text.eps /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0004-text.docx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0005-text.docx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0006-text.xlsx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0007-text.xlsx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0008-text.xlsx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0009-text.xlsx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0010-text.xlsx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0011-text.xlsx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/26992070/pmic12297-sup-0012-text.xlsx
+*** PMID 26992070: 28748 peptides ***
+Ritz, ..., Fugmann Proteomics 2016 [PMID 26992070]
+Counts by sample id:
+sample_id
+HEK293      5006
+HL-60       6489
+MAVER-1     7111
+RPMI8226    4620
+THP-1       5522
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+B-CELL        4620
+B-LCL         7111
+HEK           5006
+MONOCYTE      5522
+NEUTROPHIL    6489
+Name: peptide, dtype: int64
+****************************
+Processing MS item 5 of 11 27412690 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/27412690/mcp.M116.060350-2.xlsx
+*** PMID 27412690: 44372 peptides ***
+Shraibman, ..., Admon Mol Cell Proteomics 2016 [PMID 27412690]
+Counts by sample id:
+sample_id
+LNT-229        7546
+LNT-229+DAC    7998
+T98G           6758
+T98G+DAC       6904
+U-87           6571
+U-87+DAC       8595
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+GLIOBLASTOMA    20845
+Name: peptide, dtype: int64
+****************************
+Processing MS item 6 of 11 27600516 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/27600516/27600516.peptides.csv
+*** PMID 27600516: 13968 peptides ***
+Gloger, ..., Neri Cancer Immunol Immunother 2016 [PMID 27600516]
+Counts by sample id:
+sample_id
+FM-82       3566
+FM-93/2     3290
+MEL-624     2403
+MEWO        1679
+SK-MEL-5    3030
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+MELANOMA_CELL_LINE    10239
+Name: peptide, dtype: int64
+****************************
+Processing MS item 7 of 11 27869121 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/27869121/41467_2016_BFncomms13404_MOESM1318_ESM.xlsx
+*** PMID 27869121: 44150 peptides ***
+Bassani-Sternberg, ..., Krackhardt Nature Comm. 2016 [PMID 27869121]
+Counts by sample id:
+sample_id
+MEL-12     3777
+MEL-15    21995
+MEL-16    12078
+MEL-8      6300
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+MELANOMA_MET    35969
+Name: peptide, dtype: int64
+****************************
+Processing MS item 8 of 11 28832583 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/28832583/Dataset1.txt /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/28832583/Dataset2.txt
+*** PMID 28832583: 110050 peptides ***
+Bassani-Sternberg, ..., Gfeller PLOS Comp. Bio. 2017 [PMID 28832583]
+Counts by sample id:
+sample_id
+APHER1       6166
+APHER6       1973
+CD165        5382
+CM467        7411
+GD149        9764
+MD155        4394
+PAT_AC2      1389
+PAT_C        3185
+PAT_CELG     4146
+PAT_CP2      1805
+PAT_FL       3768
+PAT_J        2699
+PAT_JPB3     1994
+PAT_JT2      1472
+PAT_M        2500
+PAT_MA       3871
+PAT_ML       3257
+PAT_NS2       649
+PAT_NT       2307
+PAT_PF1      4854
+PAT_R        2397
+PAT_RT       2723
+PAT_SR       2771
+PAT_ST       1263
+PD42         2586
+RA957       11058
+TIL1         5457
+TIL3         8809
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+B-CELL           34073
+B-LCL            22302
+LEUKAPHERESIS     7542
+TIL              14084
+Name: peptide, dtype: int64
+****************************
+Processing MS item 9 of 11 31154438 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/31154438/zjw006195963st1.xlsx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/31154438/zjw006195963st2.txt
+sys:1: DtypeWarning: Columns (178) have mixed types.Specify dtype option on import or set low_memory=False.
+*** PMID 31154438: 43927 peptides ***
+Shraibman, ..., Admon Mol Cell Proteomics 2019 [PMID 31154438]
+Counts by sample id:
+sample_id
+10-002-S1-TISSUE      981
+11-002-S1-TISSUE     3305
+29/14-TISSUE         5239
+637/13-TISSUE        3349
+BCN-018-TISSUE       2559
+CPH-07-TISSUE        5592
+CPH-08-TISSUE        6682
+CPH-09-TISSUE        5286
+LEIDEN-004-TISSUE    4707
+LEIDEN-005-TISSUE    6227
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+GLIOBLASTOMA_TISSUE    22583
+Name: peptide, dtype: int64
+****************************
+Processing MS item 10 of 11 31495665 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/31495665/1-s2.0-S1074761319303632-mmc2.xlsx
+Intentionally skipping HLA-DR_A375
+Intentionally skipping HLA-DR_SILAC_Donor1_DConly
+Intentionally skipping HLA-DR_SILAC_Donor1_10minLysate
+Intentionally skipping HLA-DR_SILAC_Donor1_5hrLysate
+Intentionally skipping HLA-DR_SILAC_Donor1_UVovernight
+Intentionally skipping HLA-DR_SILAC_Donor2_DC_UV_16hr
+Intentionally skipping HLA-DR_SILAC_Donor2_DC_UV_24hr
+*** PMID 31495665: 64300 peptides ***
+Abelin, ..., Rooney Immunity 2019 [PMID 31495665]
+Counts by sample id:
+sample_id
+HLA-DR_LUNG                          3913
+HLA-DR_PBMC_HDSC                      397
+HLA-DR_PBMC_RG1095                    328
+HLA-DR_PBMC_RG1104                    558
+HLA-DR_PBMC_RG1248                    480
+HLA-DR_SPLEEN                        3034
+MAPTAC_A*02:01                       2658
+MAPTAC_A*11:01                       2068
+MAPTAC_A*32:01                       1087
+MAPTAC_B*07:02                       1339
+MAPTAC_B*45:01                        896
+MAPTAC_B*52:01                        592
+MAPTAC_C*03:03                        480
+MAPTAC_C*06:02                        834
+MAPTAC_DPB1*06:01/DPA1*01:03_DM+     2464
+MAPTAC_DPB1*06:01/DPA1*01:03_DM-     3503
+MAPTAC_DQB1*06:04/DQA1*01:02_DM+     1310
+MAPTAC_DQB1*06:04/DQA1*01:02_DM-      912
+MAPTAC_DRB1*01:01                    8081
+MAPTAC_DRB1*03:01                    2604
+MAPTAC_DRB1*04:01                    2459
+MAPTAC_DRB1*07:01                    5694
+MAPTAC_DRB1*11:01                   10041
+MAPTAC_DRB1*12:01_DM+                1113
+MAPTAC_DRB1*12:01_DM-                1396
+MAPTAC_DRB1*15:01                    3440
+MAPTAC_DRB3*01:01_DM+                 688
+MAPTAC_DRB3*01:01_DM-                1931
+Name: peptide, dtype: int64
+
+Counts by sample type:
+sample_type
+EXPI293                           19254
+LUNG                               3913
+MIX:A375,B721,EXPI293,KG1,K562     8081
+MIX:A375,EXPI293                   1388
+MIX:A375,EXPI293,HEK293,HELA       2658
+MIX:A375,EXPI293,HELA              2407
+MIX:EXPI293,HEK293                 5694
+MIX:EXPI293,HELA                   2068
+MIX:EXPI293,K562,KG1              10041
+PBMC                               1135
+SPLEEN                             3034
+Name: peptide, dtype: int64
+****************************
+Processing MS item 11 of 11 31844290 /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/31844290/41587_2019_322_MOESM3_ESM.xlsx /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms/31844290/41587_2019_322_MOESM4_ESM.xlsx
+Skipping due to no HLA typing GBM_Pat7
+Skipping due to no HLA typing GBM_Pat7_IFN
+Skipping due to no HLA typing RCC_Pat9
+Skipping due to no HLA typing RCC_Pat9_IFN
+*** PMID 31844290: 266733 peptides ***
+Sarkizova, ..., Keskin Nature Biotechnology 2019 [PMID 31844290]
+Counts by sample id:
+sample_id
+KESKIN_13240-002       984
+KESKIN_13240-005      3440
+KESKIN_13240-006      2695
+KESKIN_13240-015      5296
+KESKIN_A0101          1406
+                      ... 
+KESKIN_G0101           894
+KESKIN_G0103           758
+KESKIN_G0104           847
+KESKIN_H4198_BT187    6227
+KESKIN_H4512_BT145    6220
+Name: peptide, Length: 105, dtype: int64
+
+Counts by sample type:
+sample_type
+B-CELL                 135050
+GLIOBLASTOMA_TISSUE     10981
+MELANOMA                10988
+OVARY                    2689
+Name: peptide, dtype: int64
+****************************
+Sample 10-002-S1-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample 11-002-S1-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample 24616531 assigned exp. dataset sample_type:B-LCL
+Sample 29/14-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample 637/13-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample APHER1 assigned exp. dataset sample_type:LEUKAPHERESIS
+Sample APHER6 assigned exp. dataset sample_type:LEUKAPHERESIS
+Sample BCN-018-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample CD165 assigned exp. dataset sample_type:B-CELL
+Sample CM467 assigned exp. dataset sample_type:B-CELL
+Sample CPH-07-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample CPH-08-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample CPH-09-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample FIB assigned exp. dataset sample_type:FIBROBLAST
+Sample FM-82 assigned exp. dataset sample_type:MELANOMA_CELL_LINE
+Sample FM-93/2 assigned exp. dataset sample_type:MELANOMA_CELL_LINE
+Sample GD149 assigned exp. dataset sample_type:B-CELL
+Sample HCC1143 assigned exp. dataset cell_line:HCC1143
+Sample HCC1937 assigned exp. dataset cell_line:HCC1937
+Sample HCT116 assigned exp. dataset cell_line:HCT116
+Sample HEK293 assigned exp. dataset cell_line:HEK293
+Sample HHC.2015 assigned exp. dataset sample_type:B-LCL
+Sample HL-60 assigned exp. dataset cell_line:HL-60
+Sample HLA-DR_LUNG assigned exp. dataset sample_type:LUNG
+Sample HLA-DR_PBMC_HDSC assigned exp. dataset sample_type:PBMC
+Sample HLA-DR_PBMC_RG1095 assigned exp. dataset sample_type:PBMC
+Sample HLA-DR_PBMC_RG1104 assigned exp. dataset sample_type:PBMC
+Sample HLA-DR_PBMC_RG1248 assigned exp. dataset sample_type:PBMC
+Sample HLA-DR_SPLEEN assigned exp. dataset sample_type:SPLEEN
+Sample JY assigned exp. dataset sample_type:B-CELL
+Sample JY.2015 assigned exp. dataset sample_type:B-LCL
+Sample KESKIN_13240-002 assigned exp. dataset sample_type:MELANOMA
+Sample KESKIN_13240-005 assigned exp. dataset sample_type:MELANOMA
+Sample KESKIN_13240-006 assigned exp. dataset sample_type:MELANOMA
+Sample KESKIN_13240-015 assigned exp. dataset sample_type:MELANOMA
+Sample KESKIN_A0101 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A0201 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A0202 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A0203 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A0204 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A0205 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A0206 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A0207 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A0211 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A0301 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A1101 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A1102 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A2301 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A2402 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A2407 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A2501 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A2601 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A2902 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A3001 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A3002 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A3101 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A3201 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A3301 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A3303 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A3401 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A3402 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A3601 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A6601 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A6801 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A6802 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_A7401 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B0702 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B0704 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B0801 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B1301 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B1302 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B1402 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B1501 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B1502 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B1503 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B1510 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B1517 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B1801 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B2705 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B3501 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B3503 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B3507 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B3701 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B3801 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B3802 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B4001 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B4002 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B4006 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B4201 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B4402 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B4403 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B4501 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B4601 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B4901 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5001 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5101 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5201 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5301 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5401 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5501 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5502 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5601 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5701 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5703 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5801 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_B5802 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0102 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0202 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0302 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0303 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0304 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0401 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0403 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0501 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0602 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0701 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0702 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0704 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0801 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C0802 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C1202 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C1203 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C1402 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C1403 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C1502 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C1601 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_C1701 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_CP-594_V1 assigned exp. dataset sample_type:OVARY
+Sample KESKIN_DFCI-5283 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_DFCI-5328 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_DFCI-5341 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_G0101 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_G0103 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_G0104 assigned exp. dataset sample_type:B-CELL
+Sample KESKIN_H4198_BT187 assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample KESKIN_H4512_BT145 assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample LEIDEN-004-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample LEIDEN-005-TISSUE assigned exp. dataset sample_type:GLIOBLASTOMA_TISSUE
+Sample LNT-229 assigned exp. dataset cell_line:LNT-229
+Sample LNT-229+DAC assigned exp. dataset cell_line:LNT-229
+Sample MAPTAC_A*02:01 assigned exp. dataset sample_type:MIX:A375,EXPI293,HEK293,HELA
+Sample MAPTAC_A*11:01 assigned exp. dataset sample_type:MIX:EXPI293,HELA
+Sample MAPTAC_A*32:01 assigned exp. dataset sample_type:MIX:A375,EXPI293,HELA
+Sample MAPTAC_B*07:02 assigned exp. dataset sample_type:MIX:A375,EXPI293,HELA
+Sample MAPTAC_B*45:01 assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_B*52:01 assigned exp. dataset sample_type:MIX:A375,EXPI293
+Sample MAPTAC_C*03:03 assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_C*06:02 assigned exp. dataset sample_type:MIX:A375,EXPI293
+Sample MAPTAC_DPB1*06:01/DPA1*01:03_DM+ assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DPB1*06:01/DPA1*01:03_DM- assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DQB1*06:04/DQA1*01:02_DM+ assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DQB1*06:04/DQA1*01:02_DM- assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DRB1*01:01 assigned exp. dataset sample_type:MIX:A375,B721,EXPI293,KG1,K562
+Sample MAPTAC_DRB1*03:01 assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DRB1*04:01 assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DRB1*07:01 assigned exp. dataset sample_type:MIX:EXPI293,HEK293
+Sample MAPTAC_DRB1*11:01 assigned exp. dataset sample_type:MIX:EXPI293,K562,KG1
+Sample MAPTAC_DRB1*12:01_DM+ assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DRB1*12:01_DM- assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DRB1*15:01 assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DRB3*01:01_DM+ assigned exp. dataset cell_line:EXPI293
+Sample MAPTAC_DRB3*01:01_DM- assigned exp. dataset cell_line:EXPI293
+Sample MAVER-1 assigned exp. dataset sample_type:B-LCL
+Sample MD155 assigned exp. dataset sample_type:B-CELL
+Sample MEL-12 assigned exp. dataset sample_type:MELANOMA_MET
+Sample MEL-15 assigned exp. dataset sample_type:MELANOMA_MET
+Sample MEL-16 assigned exp. dataset sample_type:MELANOMA_MET
+Sample MEL-624 assigned exp. dataset sample_type:MELANOMA_CELL_LINE
+Sample MEL-8 assigned exp. dataset sample_type:MELANOMA_MET
+Sample MEWO assigned exp. dataset cell_line:MEWO
+Sample PAT_AC2 assigned exp. dataset sample_type:B-LCL
+Sample PAT_C assigned exp. dataset sample_type:B-LCL
+Sample PAT_CELG assigned exp. dataset sample_type:B-LCL
+Sample PAT_CP2 assigned exp. dataset sample_type:B-LCL
+Sample PAT_FL assigned exp. dataset sample_type:B-LCL
+Sample PAT_J assigned exp. dataset sample_type:B-LCL
+Sample PAT_JPB3 assigned exp. dataset sample_type:B-LCL
+Sample PAT_JT2 assigned exp. dataset sample_type:B-LCL
+Sample PAT_M assigned exp. dataset sample_type:B-LCL
+Sample PAT_MA assigned exp. dataset sample_type:B-LCL
+Sample PAT_ML assigned exp. dataset sample_type:B-LCL
+Sample PAT_NS2 assigned exp. dataset sample_type:B-LCL
+Sample PAT_NT assigned exp. dataset sample_type:B-LCL
+Sample PAT_PF1 assigned exp. dataset sample_type:B-LCL
+Sample PAT_R assigned exp. dataset sample_type:B-LCL
+Sample PAT_RT assigned exp. dataset sample_type:B-LCL
+Sample PAT_SR assigned exp. dataset sample_type:B-LCL
+Sample PAT_ST assigned exp. dataset sample_type:B-LCL
+Sample PD42 assigned exp. dataset sample_type:B-CELL
+Sample RA957 assigned exp. dataset sample_type:B-CELL
+Sample RPMI8226 assigned exp. dataset cell_line:RPMI8226
+Sample SK-MEL-5 assigned exp. dataset cell_line:SK-MEL-5
+Sample T98G assigned exp. dataset cell_line:T98G
+Sample T98G+DAC assigned exp. dataset cell_line:T98G
+Sample THP-1 assigned exp. dataset cell_line:THP-1
+Sample TIL1 assigned exp. dataset sample_type:TIL
+Sample TIL3 assigned exp. dataset sample_type:TIL
+Sample U-87 assigned exp. dataset cell_line:U-87
+Sample U-87+DAC assigned exp. dataset cell_line:U-87
+Expression dataset usage:
+sample_type:B-CELL                            105
+sample_type:B-LCL                              22
+cell_line:EXPI293                              13
+sample_type:GLIOBLASTOMA_TISSUE                12
+sample_type:MELANOMA_MET                        4
+sample_type:MELANOMA                            4
+sample_type:PBMC                                4
+sample_type:MELANOMA_CELL_LINE                  3
+sample_type:MIX:A375,EXPI293,HELA               2
+cell_line:LNT-229                               2
+sample_type:TIL                                 2
+sample_type:MIX:A375,EXPI293                    2
+sample_type:LEUKAPHERESIS                       2
+cell_line:U-87                                  2
+cell_line:T98G                                  2
+cell_line:HCC1143                               1
+sample_type:MIX:A375,B721,EXPI293,KG1,K562      1
+cell_line:HCC1937                               1
+sample_type:SPLEEN                              1
+cell_line:SK-MEL-5                              1
+sample_type:MIX:EXPI293,K562,KG1                1
+cell_line:RPMI8226                              1
+sample_type:MIX:EXPI293,HELA                    1
+cell_line:HCT116                                1
+sample_type:MIX:EXPI293,HEK293                  1
+cell_line:THP-1                                 1
+sample_type:LUNG                                1
+sample_type:OVARY                               1
+cell_line:MEWO                                  1
+sample_type:MIX:A375,EXPI293,HEK293,HELA        1
+cell_line:HEK293                                1
+sample_type:FIBROBLAST                          1
+cell_line:HL-60                                 1
+dtype: int64
+No nulls.
+Wrote: /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/rna_expression.csv
+Wrote: /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms.by_pmid.csv
+Wrote: /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/rna_expression.metadata.csv
+
+real	3m58.269s
+user	3m53.222s
+sys	0m3.921s
++ bzip2 ms.by_pmid.csv
++ bzip2 rna_expression.csv
++ rm -rf ms
+++ mhcflurry-downloads path data_iedb
+++ mhcflurry-downloads path data_published
+++ mhcflurry-downloads path data_systemhcatlas
+++ pwd
++ python curate.py --data-iedb '/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_iedb//mhc_ligand_full.csv.bz2' --data-kim2014 '/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_published//bdata.20130222.mhci.public.1.txt' --data-systemhc-atlas '/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_systemhcatlas//data.csv.bz2' --data-additional-ms /var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms.by_pmid.csv.bz2 --out-csv curated_training_data.csv --out-affinity-csv curated_training_data.affinity.csv --out-mass-spec-csv curated_training_data.mass_spec.csv
+Loaded iedb data: (1357292, 100)
+Selecting only class I
+New shape: (1152494, 100)
+Dropping known unusuable alleles
+Dropping 21556 records with insufficiently-specific allele names:
+HLA-B7      6264
+HLA-A2      2408
+HLA-B27     1889
+HLA-A3      1691
+HLA-B40     1645
+            ... 
+HLA-Cw2        2
+RT1-Ac         1
+HLA-B45        1
+HLA-B14        1
+HLA-Cw12       1
+Name: Allele Name, Length: 64, dtype: int64
+Dropping un-parseable alleles: Mamu-A1*001:01, Mamu-A1*011:01, Mamu-A1*002:01, H2-d class I, H2-f class I, H2-b class I, H2-k class I, H2-r class I, H2-s class I, H2-z class I, H2-p class I, H2-q class I, H2-v class I, H2-Kwm7, Mamu class I, Ptal-N*01:01, HLA-A*30:14L, Mamu-A1*065:01
+IEDB measurements per allele:
+HLA-B*27:05       131615
+HLA-A*02:01        53800
+HLA-B*57:01        40285
+H-2-Db             29308
+H-2-Kb             27063
+                   ...  
+HLA-BF*02:1501         2
+BoLA-6*41:01           2
+HLA-C*07:04            2
+BoLA-6*13:02           1
+SLA-2*04:02            1
+Name: allele, Length: 230, dtype: int64
+Quantitative measurements: 145211
+Qualitative measurements: 556770
+Qualitative measurements (possibly after dropping MS): 556770
+IEDB measurements per allele:
+HLA-B*27:05       131562
+HLA-A*02:01        51128
+HLA-B*57:01        40237
+H-2-Db             29138
+H-2-Kb             26889
+                   ...  
+HLA-BF*02:1501         2
+BoLA-6*41:01           2
+HLA-C*07:04            2
+BoLA-1*21:01           2
+BoLA-6*13:02           1
+Name: allele, Length: 224, dtype: int64
+Subselecting to valid peptides. Starting with: 701981
+Now: 685853
+Annotating last author and category
+Loaded kim2014 data: (179692, 7)
+Dropping un-parseable alleles: H-2-Kbm8, HLA-A3/11, RT1-Bl, RT1A
+Loaded kim2014 data: (179542, 15)
+Dropping kim2014 data present in IEDB.
+Kim2014 data now: (57675, 16)
+Loaded systemhc atlas data: (1043679, 12)
+Dropping un-parseable alleles: nan, HLA-B07:02;HLA-B35:03, HLA-A03:01;HLA-C07:02, unclassified, HLA-C04:01;HLA-C07:02, H-2-Db;H-2-Kb, HLA-A02:01;HLA-B39:24, HLA-A02:01;HLA-B39:24;HLA-C07:01, HLA-A02:01;HLA-C07:01, HLA-A01:01;HLA-C05:01, HLA-A02:01;HLA-C05:01, HLA-A01:01;HLA-B39:24;HLA-C05:01, HLA-A01:01;HLA-A02:01;HLA-B39:24;HLA-C05:01, HLA-A02:01;HLA-B39:24;HLA-C05:01;HLA-C07:01, HLA-B39:24;HLA-C07:01, HLA-B18:01;HLA-B39:24, HLA-B39:24;HLA-C05:01, HLA-B18:01;HLA-C05:01, HLA-A01:01;HLA-A02:01;HLA-C05:01, HLA-A02:01;HLA-C05:01;HLA-C07:01, HLA-A02:01;HLA-B39:01, HLA-B35:01;HLA-B39:01, HLA-A03:01;HLA-B35:01, HLA-A03:01;HLA-A29:02;HLA-C16:01, HLA-A03:01;HLA-A29:02, HLA-A29:02;HLA-B44:03, HLA-A03:01;HLA-A29:02;HLA-C07:01;HLA-C16:01, HLA-B08:01;HLA-C16:01, HLA-B08:01;HLA-C07:01, HLA-A29:02;HLA-C07:01;HLA-C16:01, HLA-A29:02;HLA-C16:01, HLA-B08:01;HLA-C07:01;HLA-C16:01, HLA-B07:02;HLA-B35:01, HLA-B40:01;HLA-C07:01, HLA-B15:11;HLA-B35:01, HLA-A02:01;HLA-C03:03, HLA-B15:11;HLA-B35:01;HLA-C03:03, HLA-B35:01;HLA-C03:03, HLA-A02:01;HLA-B35:01;HLA-C03:03, HLA-A02:01;HLA-A24:02, HLA-A02:01;HLA-B15:11;HLA-C03:03, HLA-A24:02;HLA-C03:03, HLA-A24:02;HLA-B35:01, HLA-A24:02;HLA-B35:01;HLA-C03:03, HLA-A02:01;HLA-B15:11;HLA-B35:01;HLA-C03:03, HLA-B15:11;HLA-C03:03, HLA-A24:02;HLA-B15:11;HLA-B35:01;HLA-C03:03, HLA-A02:01;HLA-C16:01, HLA-B07:02;HLA-C16:01, HLA-A01:01;HLA-C16:01, HLA-A02:01;HLA-C07:02;HLA-C16:01, HLA-A01:01;HLA-A02:01;HLA-C16:01, HLA-A01:01;HLA-C07:02;HLA-C16:01, HLA-B44:03;HLA-C07:02, HLA-C07:02;HLA-C16:01, HLA-A02:01;HLA-B07:02;HLA-C16:01, HLA-A02:01;HLA-B07:02;HLA-C07:02;HLA-C16:01, HLA-C03:03;HLA-C15:05, HLA-A02:01;HLA-B15:01, HLA-B15:01;HLA-C03:03, HLA-A02:01;HLA-C03:03;HLA-C15:05, HLA-A24:02;HLA-B15:01, HLA-A02:01;HLA-C15:05, HLA-B15:01;HLA-C03:03;HLA-C15:05, HLA-A24:02;HLA-B15:01;HLA-C03:03, HLA-A02:01;HLA-B15:01;HLA-C03:03, HLA-A02:01;HLA-A24:02;HLA-B15:01, HLA-A03:01;HLA-A68:01, HLA-A03:01;HLA-B27:05, HLA-A68:01;HLA-B27:05, HLA-B35:03;HLA-C02:02, HLA-A68:01;HLA-C02:02, HLA-A03:01;HLA-A68:01;HLA-B27:05, HLA-B40:01;HLA-B44:02, HLA-A11:01;HLA-A30:01, HLA-A30:01;HLA-B08:01, HLA-B08:01;HLA-B39:01, HLA-A29:02;HLA-B57:01, HLA-B44:03;HLA-B57:01, HLA-A02:01;HLA-A29:02, HLA-A02:01;HLA-C06:02, HLA-A02:01;HLA-C17:01, HLA-A02:01;HLA-B13:02, HLA-A02:01;HLA-B13:02;HLA-B41:01, HLA-A02:01;HLA-B13:02;HLA-C06:02, HLA-B44:02;HLA-C05:01, HLA-A02:01;HLA-A23:01, HLA-B18:01;HLA-B44:03, HLA-A23:01;HLA-C07:01, HLA-A23:01;HLA-B18:01;HLA-B44:03, HLA-A02:01;HLA-A23:01;HLA-C07:01, HLA-A23:01;HLA-C04:01, HLA-A23:01;HLA-B18:01, HLA-B44:03;HLA-C07:01, HLA-C04:01;HLA-C07:01, HLA-C07:01;HLA-C16:01, HLA-A02:01;HLA-B35:01;HLA-B39:01, HLA-A24:02;HLA-B39:01, HLA-A02:01;HLA-B35:01, HLA-A11:01;HLA-A31:01, HLA-A02:01;HLA-C07:01;HLA-C16:01, HLA-A29:02;HLA-B57:01;HLA-C16:01, HLA-B57:01;HLA-C16:01, HLA-A29:02;HLA-B57:01;HLA-C07:01;HLA-C16:01, HLA-A02:01;HLA-A29:02;HLA-C16:01, HLA-A26:01;HLA-B15:01, HLA-A01:01;HLA-A26:01, HLA-A01:01;HLA-B15:01, HLA-A01:01;HLA-A26:01;HLA-B15:01, HLA-B15:01;HLA-B40:01, HLA-A01:01;HLA-A03:01, HLA-A01:01;HLA-C02:02, HLA-B07:02;HLA-C07:01, HLA-A01:01;HLA-A03:01;HLA-C02:02, HLA-A01:01;HLA-C02:02;HLA-C07:01, HLA-B27:01;HLA-C07:01, HLA-C02:02;HLA-C07:01, HLA-B07:02;HLA-C02:02, HLA-A01:01;HLA-C07:01, HLA-A29:02;HLA-A30:04, HLA-A29:02;HLA-A30:04;HLA-C16:01, HLA-B41:01;HLA-B44:03, HLA-A29:02;HLA-A30:04;HLA-B44:03;HLA-C16:01, HLA-A29:02;HLA-A30:04;HLA-B44:03, HLA-A30:04;HLA-C16:01, HLA-B07:02;HLA-B35:03;HLA-C07:02, HLA-B44:03;HLA-B50:01, HLA-A03:01;HLA-A11:01, HLA-B08:01;HLA-B40:01, HLA-A01:01;HLA-A30:01, HLA-C03:04;HLA-C07:02, HLA-B40:01;HLA-C03:04, HLA-B07:02;HLA-C03:04, HLA-B07:02;HLA-C03:04;HLA-C07:02, HLA-B40:01;HLA-C07:02, HLA-A23:01;HLA-A24:02;HLA-C07:02, HLA-A23:01;HLA-C03:04;HLA-C07:02, HLA-A23:01;HLA-A24:02, HLA-A23:01;HLA-C07:02, HLA-A24:02;HLA-C07:02, HLA-A23:01;HLA-A24:02;HLA-C03:04;HLA-C07:02, HLA-A23:01;HLA-C03:04, HLA-A23:01;HLA-A24:02;HLA-C03:04, HLA-A02:01;HLA-C03:01, HLA-A02:01;HLA-B15:01;HLA-C03:01, HLA-B35:01;HLA-C03:01, HLA-B15:01;HLA-B35:01;HLA-C03:01, HLA-B15:01;HLA-C03:01, HLA-A01:01;HLA-A03:01;HLA-C02:02;HLA-C07:01, HLA-A01:01;HLA-A02:01, HLA-B07:02;HLA-B08:01, HLA-B08:01;HLA-C07:02, HLA-B08:01;HLA-C07:01;HLA-C07:02, HLA-A24:02;HLA-C07:01;HLA-C07:02, HLA-B07:02;HLA-B08:01;HLA-C07:01;HLA-C07:02, HLA-B07:02;HLA-B08:01;HLA-C07:02, HLA-C07:01;HLA-C07:02, HLA-A24:02;HLA-B08:01;HLA-C07:01;HLA-C07:02, HLA-A24:02;HLA-B08:01;HLA-C07:02, HLA-B07:02;HLA-B08:01;HLA-C07:01, HLA-A24:02;HLA-B08:01, HLA-A02:01;HLA-C07:02, HLA-A02:01;HLA-B07:02;HLA-C07:02, HLA-A02:01;HLA-B07:02, HLA-B07:02;HLA-C07:02, HLA-B18:03;HLA-B35:01, HLA-B18:03;HLA-C07:01, HLA-A11:01;HLA-B35:01, HLA-A11:01;HLA-C07:01, HLA-A03:01;HLA-A68:01;HLA-C02:02, HLA-A23:01;HLA-B35:01, HLA-B15:01;HLA-B39:01, HLA-A24:02;HLA-B15:01;HLA-B39:01, HLA-A02:01;HLA-B27:05, HLA-A11:01;HLA-B27:05, HLA-B39:01;HLA-C07:01, HLA-A01:01;HLA-A25:01, HLA-B08:01;HLA-B18:01, HLA-A25:01;HLA-B08:01, HLA-A03:01;HLA-C02:02, HLA-A02:01;HLA-B15:01;HLA-C03:03;HLA-C15:05, HLA-A24:02;HLA-B15:01;HLA-C15:05, HLA-A29:02;HLA-B41:01;HLA-B44:03, HLA-A01:01;HLA-B35:01, HLA-B15:01;HLA-B18:01, HLA-B18:01;HLA-B44:02, HLA-A03:01;HLA-B15:01;HLA-B35:01, HLA-B07:02;HLA-B51:01, HLA-A24:02;HLA-B07:02, HLA-C05:01;HLA-C08:01, HLA-A11:01;HLA-C05:01, HLA-A26:01;HLA-B57:01, HLA-A03:01;HLA-A26:01, HLA-A03:01;HLA-A26:01;HLA-B57:01, HLA-A03:01;HLA-B57:01, HLA-A02:01;HLA-A31:01, HLA-A02:01;HLA-B38:01, HLA-A32:01;HLA-B08:01, HLA-A32:01;HLA-B08:01;HLA-B39:01, HLA-A01:01;HLA-A32:01, HLA-A02:01;HLA-A32:01, HLA-A32:01;HLA-B15:01, HLA-A02:01;HLA-A32:01;HLA-B15:01, HLA-B44:02;HLA-C07:02, HLA-A01:01;HLA-B44:02;HLA-C05:01, HLA-A01:01;HLA-C07:01;HLA-C07:02, HLA-A01:01;HLA-C07:02, HLA-B08:01;HLA-B15:01, HLA-B07:02;HLA-C05:01, HLA-A32:01;HLA-C07:01, HLA-A32:01;HLA-B08:01;HLA-C07:01, HLA-A11:01;HLA-A68:01, HLA-B27:05;HLA-C07:02, HLA-A68:01;HLA-C07:02, HLA-B07:02;HLA-C02:02;HLA-C07:01, HLA-A24:02;HLA-A29:02, HLA-A29:02;HLA-C06:02, HLA-A24:02;HLA-A29:02;HLA-C06:02, HLA-A24:02;HLA-C06:02, HLA-A01:01;HLA-A02:01;HLA-B39:24, HLA-B15:186;HLA-C07:02;HLA-C07:04, HLA-B15:186;HLA-C07:02, HLA-A23:01;HLA-B15:186, HLA-A23:01;HLA-B15:186;HLA-C07:02, HLA-A03:01;HLA-B15:186, HLA-C07:02;HLA-C07:04, HLA-A23:01;HLA-B08:01, HLA-B08:01;HLA-B15:186, HLA-A23:01;HLA-B08:01;HLA-C07:02, HLA-A03:01;HLA-B15:186;HLA-C07:02, HLA-A29:02;HLA-C07:01, HLA-A02:01;HLA-B07:02;HLA-C07:01, HLA-A02:01;HLA-A29:01, HLA-A29:01;HLA-B44:02, HLA-B35:08;HLA-C06:02, HLA-C04:01;HLA-C06:02, HLA-A02:01;HLA-B08:01, HLA-A02:01;HLA-B57:01, HLA-A02:01;HLA-A03:01, HLA-A32:01;HLA-B13:01, HLA-A02:01;HLA-B13:01, HLA-A32:01;HLA-B13:01;HLA-B40:01, HLA-A02:01;HLA-A32:01;HLA-B13:01, HLA-B15:01;HLA-B57:01, HLA-A24:02;HLA-B15:01;HLA-B57:01, HLA-C12:04;HLA-C14:02, HLA-B51:01;HLA-C14:02, HLA-A03:01;HLA-C14:02, HLA-A03:01;HLA-A11:01;HLA-C12:04, HLA-A11:01;HLA-C14:02, HLA-B51:01;HLA-B52:01, HLA-B51:01;HLA-C12:04;HLA-C14:02, HLA-B51:01;HLA-B52:01;HLA-C14:02, HLA-A03:01;HLA-A11:01;HLA-C14:02, HLA-B51:01;HLA-C12:04, HLA-A11:01;HLA-C12:04;HLA-C14:02, HLA-B51:01;HLA-B52:01;HLA-C12:04;HLA-C14:02, HLA-A03:01;HLA-A11:01;HLA-C12:04;HLA-C14:02, HLA-B52:01;HLA-C14:02, HLA-B52:01;HLA-C12:04;HLA-C14:02, HLA-A03:01;HLA-C12:04;HLA-C14:02, HLA-A11:01;HLA-C12:04, HLA-A32:01;HLA-C16:01, HLA-A32:01;HLA-B27:05, HLA-A03:01;HLA-A32:01;HLA-C16:01, HLA-A03:01;HLA-A32:01, HLA-B27:05;HLA-C16:01, HLA-A03:01;HLA-C16:01, HLA-B08:01;HLA-B15:186;HLA-C07:02, HLA-B07:02;HLA-B39:01, HLA-A02:01;HLA-B07:02;HLA-B39:01, HLA-B35:01;HLA-C04:01, HLA-A01:01;HLA-B39:24, HLA-A02:01;HLA-E01:01, HLA-B18:01;HLA-B45:01, HLA-A01:01;HLA-C05:01;HLA-C07:01, HLA-A02:01;HLA-B45:01, HLA-A01:01;HLA-A02:01;HLA-C05:01;HLA-C07:01, HLA-A02:01;HLA-B39:06;HLA-C07:02, HLA-A02:01;HLA-B39:06, HLA-B39:06;HLA-C07:02, HLA-A02:01;HLA-A24:02;HLA-C03:03, HLA-A24:02;HLA-B27:05, HLA-A02:01;HLA-C03:01;HLA-C16:01, HLA-B40:01;HLA-B44:03, HLA-B40:01;HLA-C03:01, HLA-C03:01;HLA-C16:01, HLA-A11:01;HLA-C03:01, HLA-B40:01;HLA-B44:03;HLA-C03:01, HLA-A03:01;HLA-A29:01
+Systemhc atlas data now: (428156, 20)
+Dropping data points with probability < 0.990000
+Systemhc atlas data now: (293273, 20)
+Removing duplicates
+Systemhc atlas data now: (85476, 20)
+sys:1: DtypeWarning: Columns (7) have mixed types.Specify dtype option on import or set low_memory=False.
+Loaded additional MS /var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/ms.by_pmid.csv.bz2 (652746, 11)
+            pmid           sample_id  ... pulldown_antibody          sample_type
+0       23481700             JY.2015  ...             W6/32                B-LCL
+1       23481700             JY.2015  ...             W6/32                B-LCL
+2       23481700             JY.2015  ...             W6/32                B-LCL
+3       23481700             JY.2015  ...             W6/32                B-LCL
+4       23481700             JY.2015  ...             W6/32                B-LCL
+...          ...                 ...  ...               ...                  ...
+652741  31844290  KESKIN_H4512_BT145  ...             W6/32  GLIOBLASTOMA_TISSUE
+652742  31844290  KESKIN_H4512_BT145  ...             W6/32  GLIOBLASTOMA_TISSUE
+652743  31844290  KESKIN_H4512_BT145  ...             W6/32  GLIOBLASTOMA_TISSUE
+652744  31844290  KESKIN_H4512_BT145  ...             W6/32  GLIOBLASTOMA_TISSUE
+652745  31844290  KESKIN_H4512_BT145  ...             W6/32  GLIOBLASTOMA_TISSUE
+
+[652746 rows x 11 columns]
+Entries: 652746
+Subselecting to monoallelic
+Now 275741
+Combined df: (1008099, 38)
+Removing combined duplicates
+New combined df: (791868, 38)
+Final combined df: (791835, 8)
+Measurement sources:
+MS:pmid:31844290                                      144799
+Admon - cellular MHC/mass spectrometry                 67010
+Sette - purified MHC/competitive/radioactivity         60287
+kim2014                                                57675
+MS:pmid:31495665                                       48586
+                                                       ...  
+Loll - purified MHC                                        1
+Maryanski - purified MHC/competitive/radioactivity         1
+Apostolopoulos - binding assay                             1
+Coligan - Edman degradation                                1
+Sette - cellular MHC/direct/radioactivity                  1
+Name: measurement_source, Length: 812, dtype: int64
+Measurement kind:
+mass_spec    568601
+affinity     223234
+Name: measurement_kind, dtype: int64
+Measurement source / kind:
+measurement_source                                    measurement_kind
+Malarkannan - cellular MHC/competitive/fluorescence   affinity                 1
+Sgourakis - binding assay                             affinity                 1
+Shabanowitz - purified MHC/competitive/radioactivity  affinity                 1
+Shabanowitz - secreted MHC/mass spectrometry          mass_spec                1
+Hausmann - cellular MHC/direct/fluorescence           affinity                 1
+                                                                           ...  
+MS:pmid:31495665                                      mass_spec            48586
+kim2014                                               affinity             57675
+Sette - purified MHC/competitive/radioactivity        affinity             60287
+Admon - cellular MHC/mass spectrometry                mass_spec            67010
+MS:pmid:31844290                                      mass_spec           144799
+Name: peptide, Length: 812, dtype: int64
+Wrote [791835 lines]: /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/curated_training_data.csv
+Wrote [223234 lines]: /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/curated_training_data.affinity.csv
+Wrote [568601 lines]: /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/curated_training_data.mass_spec.csv
+
+real	2m19.184s
+user	2m9.151s
+sys	0m10.279s
+++ mhcflurry-downloads path data_iedb
+++ mhcflurry-downloads path data_published
+++ mhcflurry-downloads path data_systemhcatlas
++ python curate.py --data-iedb '/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_iedb//mhc_ligand_full.csv.bz2' --data-kim2014 '/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_published//bdata.20130222.mhci.public.1.txt' --data-systemhc-atlas '/Users/tim/Library/Application Support/mhcflurry/4/1.7.0/data_systemhcatlas//data.csv.bz2' --out-csv curated_training_data.no_additional_ms.csv
+Loaded iedb data: (1357292, 100)
+Selecting only class I
+New shape: (1152494, 100)
+Dropping known unusuable alleles
+Dropping 21556 records with insufficiently-specific allele names:
+HLA-B7      6264
+HLA-A2      2408
+HLA-B27     1889
+HLA-A3      1691
+HLA-B40     1645
+            ... 
+HLA-B54        2
+HLA-B14        1
+RT1-Ac         1
+HLA-B45        1
+HLA-Cw12       1
+Name: Allele Name, Length: 64, dtype: int64
+Dropping un-parseable alleles: Mamu-A1*001:01, Mamu-A1*011:01, Mamu-A1*002:01, H2-d class I, H2-f class I, H2-b class I, H2-k class I, H2-r class I, H2-s class I, H2-z class I, H2-p class I, H2-q class I, H2-v class I, H2-Kwm7, Mamu class I, Ptal-N*01:01, HLA-A*30:14L, Mamu-A1*065:01
+IEDB measurements per allele:
+HLA-B*27:05     131615
+HLA-A*02:01      53800
+HLA-B*57:01      40285
+H-2-Db           29308
+H-2-Kb           27063
+                 ...  
+BoLA-6*41:01         2
+Mamu-B*51:04         2
+HLA-B*50:02          2
+SLA-2*04:02          1
+BoLA-6*13:02         1
+Name: allele, Length: 230, dtype: int64
+Quantitative measurements: 145211
+Qualitative measurements: 556770
+Qualitative measurements (possibly after dropping MS): 556770
+IEDB measurements per allele:
+HLA-B*27:05       131562
+HLA-A*02:01        51128
+HLA-B*57:01        40237
+H-2-Db             29138
+H-2-Kb             26889
+                   ...  
+HLA-BF*02:1501         2
+BoLA-6*41:01           2
+HLA-BF*01:0201         2
+BoLA-1*21:01           2
+BoLA-6*13:02           1
+Name: allele, Length: 224, dtype: int64
+Subselecting to valid peptides. Starting with: 701981
+Now: 685853
+Annotating last author and category
+Loaded kim2014 data: (179692, 7)
+Dropping un-parseable alleles: H-2-Kbm8, HLA-A3/11, RT1-Bl, RT1A
+Loaded kim2014 data: (179542, 15)
+Dropping kim2014 data present in IEDB.
+Kim2014 data now: (57675, 16)
+Loaded systemhc atlas data: (1043679, 12)
+Dropping un-parseable alleles: nan, HLA-B07:02;HLA-B35:03, HLA-A03:01;HLA-C07:02, unclassified, HLA-C04:01;HLA-C07:02, H-2-Db;H-2-Kb, HLA-A02:01;HLA-B39:24, HLA-A02:01;HLA-B39:24;HLA-C07:01, HLA-A02:01;HLA-C07:01, HLA-A01:01;HLA-C05:01, HLA-A02:01;HLA-C05:01, HLA-A01:01;HLA-B39:24;HLA-C05:01, HLA-A01:01;HLA-A02:01;HLA-B39:24;HLA-C05:01, HLA-A02:01;HLA-B39:24;HLA-C05:01;HLA-C07:01, HLA-B39:24;HLA-C07:01, HLA-B18:01;HLA-B39:24, HLA-B39:24;HLA-C05:01, HLA-B18:01;HLA-C05:01, HLA-A01:01;HLA-A02:01;HLA-C05:01, HLA-A02:01;HLA-C05:01;HLA-C07:01, HLA-A02:01;HLA-B39:01, HLA-B35:01;HLA-B39:01, HLA-A03:01;HLA-B35:01, HLA-A03:01;HLA-A29:02;HLA-C16:01, HLA-A03:01;HLA-A29:02, HLA-A29:02;HLA-B44:03, HLA-A03:01;HLA-A29:02;HLA-C07:01;HLA-C16:01, HLA-B08:01;HLA-C16:01, HLA-B08:01;HLA-C07:01, HLA-A29:02;HLA-C07:01;HLA-C16:01, HLA-A29:02;HLA-C16:01, HLA-B08:01;HLA-C07:01;HLA-C16:01, HLA-B07:02;HLA-B35:01, HLA-B40:01;HLA-C07:01, HLA-B15:11;HLA-B35:01, HLA-A02:01;HLA-C03:03, HLA-B15:11;HLA-B35:01;HLA-C03:03, HLA-B35:01;HLA-C03:03, HLA-A02:01;HLA-B35:01;HLA-C03:03, HLA-A02:01;HLA-A24:02, HLA-A02:01;HLA-B15:11;HLA-C03:03, HLA-A24:02;HLA-C03:03, HLA-A24:02;HLA-B35:01, HLA-A24:02;HLA-B35:01;HLA-C03:03, HLA-A02:01;HLA-B15:11;HLA-B35:01;HLA-C03:03, HLA-B15:11;HLA-C03:03, HLA-A24:02;HLA-B15:11;HLA-B35:01;HLA-C03:03, HLA-A02:01;HLA-C16:01, HLA-B07:02;HLA-C16:01, HLA-A01:01;HLA-C16:01, HLA-A02:01;HLA-C07:02;HLA-C16:01, HLA-A01:01;HLA-A02:01;HLA-C16:01, HLA-A01:01;HLA-C07:02;HLA-C16:01, HLA-B44:03;HLA-C07:02, HLA-C07:02;HLA-C16:01, HLA-A02:01;HLA-B07:02;HLA-C16:01, HLA-A02:01;HLA-B07:02;HLA-C07:02;HLA-C16:01, HLA-C03:03;HLA-C15:05, HLA-A02:01;HLA-B15:01, HLA-B15:01;HLA-C03:03, HLA-A02:01;HLA-C03:03;HLA-C15:05, HLA-A24:02;HLA-B15:01, HLA-A02:01;HLA-C15:05, HLA-B15:01;HLA-C03:03;HLA-C15:05, HLA-A24:02;HLA-B15:01;HLA-C03:03, HLA-A02:01;HLA-B15:01;HLA-C03:03, HLA-A02:01;HLA-A24:02;HLA-B15:01, HLA-A03:01;HLA-A68:01, HLA-A03:01;HLA-B27:05, HLA-A68:01;HLA-B27:05, HLA-B35:03;HLA-C02:02, HLA-A68:01;HLA-C02:02, HLA-A03:01;HLA-A68:01;HLA-B27:05, HLA-B40:01;HLA-B44:02, HLA-A11:01;HLA-A30:01, HLA-A30:01;HLA-B08:01, HLA-B08:01;HLA-B39:01, HLA-A29:02;HLA-B57:01, HLA-B44:03;HLA-B57:01, HLA-A02:01;HLA-A29:02, HLA-A02:01;HLA-C06:02, HLA-A02:01;HLA-C17:01, HLA-A02:01;HLA-B13:02, HLA-A02:01;HLA-B13:02;HLA-B41:01, HLA-A02:01;HLA-B13:02;HLA-C06:02, HLA-B44:02;HLA-C05:01, HLA-A02:01;HLA-A23:01, HLA-B18:01;HLA-B44:03, HLA-A23:01;HLA-C07:01, HLA-A23:01;HLA-B18:01;HLA-B44:03, HLA-A02:01;HLA-A23:01;HLA-C07:01, HLA-A23:01;HLA-C04:01, HLA-A23:01;HLA-B18:01, HLA-B44:03;HLA-C07:01, HLA-C04:01;HLA-C07:01, HLA-C07:01;HLA-C16:01, HLA-A02:01;HLA-B35:01;HLA-B39:01, HLA-A24:02;HLA-B39:01, HLA-A02:01;HLA-B35:01, HLA-A11:01;HLA-A31:01, HLA-A02:01;HLA-C07:01;HLA-C16:01, HLA-A29:02;HLA-B57:01;HLA-C16:01, HLA-B57:01;HLA-C16:01, HLA-A29:02;HLA-B57:01;HLA-C07:01;HLA-C16:01, HLA-A02:01;HLA-A29:02;HLA-C16:01, HLA-A26:01;HLA-B15:01, HLA-A01:01;HLA-A26:01, HLA-A01:01;HLA-B15:01, HLA-A01:01;HLA-A26:01;HLA-B15:01, HLA-B15:01;HLA-B40:01, HLA-A01:01;HLA-A03:01, HLA-A01:01;HLA-C02:02, HLA-B07:02;HLA-C07:01, HLA-A01:01;HLA-A03:01;HLA-C02:02, HLA-A01:01;HLA-C02:02;HLA-C07:01, HLA-B27:01;HLA-C07:01, HLA-C02:02;HLA-C07:01, HLA-B07:02;HLA-C02:02, HLA-A01:01;HLA-C07:01, HLA-A29:02;HLA-A30:04, HLA-A29:02;HLA-A30:04;HLA-C16:01, HLA-B41:01;HLA-B44:03, HLA-A29:02;HLA-A30:04;HLA-B44:03;HLA-C16:01, HLA-A29:02;HLA-A30:04;HLA-B44:03, HLA-A30:04;HLA-C16:01, HLA-B07:02;HLA-B35:03;HLA-C07:02, HLA-B44:03;HLA-B50:01, HLA-A03:01;HLA-A11:01, HLA-B08:01;HLA-B40:01, HLA-A01:01;HLA-A30:01, HLA-C03:04;HLA-C07:02, HLA-B40:01;HLA-C03:04, HLA-B07:02;HLA-C03:04, HLA-B07:02;HLA-C03:04;HLA-C07:02, HLA-B40:01;HLA-C07:02, HLA-A23:01;HLA-A24:02;HLA-C07:02, HLA-A23:01;HLA-C03:04;HLA-C07:02, HLA-A23:01;HLA-A24:02, HLA-A23:01;HLA-C07:02, HLA-A24:02;HLA-C07:02, HLA-A23:01;HLA-A24:02;HLA-C03:04;HLA-C07:02, HLA-A23:01;HLA-C03:04, HLA-A23:01;HLA-A24:02;HLA-C03:04, HLA-A02:01;HLA-C03:01, HLA-A02:01;HLA-B15:01;HLA-C03:01, HLA-B35:01;HLA-C03:01, HLA-B15:01;HLA-B35:01;HLA-C03:01, HLA-B15:01;HLA-C03:01, HLA-A01:01;HLA-A03:01;HLA-C02:02;HLA-C07:01, HLA-A01:01;HLA-A02:01, HLA-B07:02;HLA-B08:01, HLA-B08:01;HLA-C07:02, HLA-B08:01;HLA-C07:01;HLA-C07:02, HLA-A24:02;HLA-C07:01;HLA-C07:02, HLA-B07:02;HLA-B08:01;HLA-C07:01;HLA-C07:02, HLA-B07:02;HLA-B08:01;HLA-C07:02, HLA-C07:01;HLA-C07:02, HLA-A24:02;HLA-B08:01;HLA-C07:01;HLA-C07:02, HLA-A24:02;HLA-B08:01;HLA-C07:02, HLA-B07:02;HLA-B08:01;HLA-C07:01, HLA-A24:02;HLA-B08:01, HLA-A02:01;HLA-C07:02, HLA-A02:01;HLA-B07:02;HLA-C07:02, HLA-A02:01;HLA-B07:02, HLA-B07:02;HLA-C07:02, HLA-B18:03;HLA-B35:01, HLA-B18:03;HLA-C07:01, HLA-A11:01;HLA-B35:01, HLA-A11:01;HLA-C07:01, HLA-A03:01;HLA-A68:01;HLA-C02:02, HLA-A23:01;HLA-B35:01, HLA-B15:01;HLA-B39:01, HLA-A24:02;HLA-B15:01;HLA-B39:01, HLA-A02:01;HLA-B27:05, HLA-A11:01;HLA-B27:05, HLA-B39:01;HLA-C07:01, HLA-A01:01;HLA-A25:01, HLA-B08:01;HLA-B18:01, HLA-A25:01;HLA-B08:01, HLA-A03:01;HLA-C02:02, HLA-A02:01;HLA-B15:01;HLA-C03:03;HLA-C15:05, HLA-A24:02;HLA-B15:01;HLA-C15:05, HLA-A29:02;HLA-B41:01;HLA-B44:03, HLA-A01:01;HLA-B35:01, HLA-B15:01;HLA-B18:01, HLA-B18:01;HLA-B44:02, HLA-A03:01;HLA-B15:01;HLA-B35:01, HLA-B07:02;HLA-B51:01, HLA-A24:02;HLA-B07:02, HLA-C05:01;HLA-C08:01, HLA-A11:01;HLA-C05:01, HLA-A26:01;HLA-B57:01, HLA-A03:01;HLA-A26:01, HLA-A03:01;HLA-A26:01;HLA-B57:01, HLA-A03:01;HLA-B57:01, HLA-A02:01;HLA-A31:01, HLA-A02:01;HLA-B38:01, HLA-A32:01;HLA-B08:01, HLA-A32:01;HLA-B08:01;HLA-B39:01, HLA-A01:01;HLA-A32:01, HLA-A02:01;HLA-A32:01, HLA-A32:01;HLA-B15:01, HLA-A02:01;HLA-A32:01;HLA-B15:01, HLA-B44:02;HLA-C07:02, HLA-A01:01;HLA-B44:02;HLA-C05:01, HLA-A01:01;HLA-C07:01;HLA-C07:02, HLA-A01:01;HLA-C07:02, HLA-B08:01;HLA-B15:01, HLA-B07:02;HLA-C05:01, HLA-A32:01;HLA-C07:01, HLA-A32:01;HLA-B08:01;HLA-C07:01, HLA-A11:01;HLA-A68:01, HLA-B27:05;HLA-C07:02, HLA-A68:01;HLA-C07:02, HLA-B07:02;HLA-C02:02;HLA-C07:01, HLA-A24:02;HLA-A29:02, HLA-A29:02;HLA-C06:02, HLA-A24:02;HLA-A29:02;HLA-C06:02, HLA-A24:02;HLA-C06:02, HLA-A01:01;HLA-A02:01;HLA-B39:24, HLA-B15:186;HLA-C07:02;HLA-C07:04, HLA-B15:186;HLA-C07:02, HLA-A23:01;HLA-B15:186, HLA-A23:01;HLA-B15:186;HLA-C07:02, HLA-A03:01;HLA-B15:186, HLA-C07:02;HLA-C07:04, HLA-A23:01;HLA-B08:01, HLA-B08:01;HLA-B15:186, HLA-A23:01;HLA-B08:01;HLA-C07:02, HLA-A03:01;HLA-B15:186;HLA-C07:02, HLA-A29:02;HLA-C07:01, HLA-A02:01;HLA-B07:02;HLA-C07:01, HLA-A02:01;HLA-A29:01, HLA-A29:01;HLA-B44:02, HLA-B35:08;HLA-C06:02, HLA-C04:01;HLA-C06:02, HLA-A02:01;HLA-B08:01, HLA-A02:01;HLA-B57:01, HLA-A02:01;HLA-A03:01, HLA-A32:01;HLA-B13:01, HLA-A02:01;HLA-B13:01, HLA-A32:01;HLA-B13:01;HLA-B40:01, HLA-A02:01;HLA-A32:01;HLA-B13:01, HLA-B15:01;HLA-B57:01, HLA-A24:02;HLA-B15:01;HLA-B57:01, HLA-C12:04;HLA-C14:02, HLA-B51:01;HLA-C14:02, HLA-A03:01;HLA-C14:02, HLA-A03:01;HLA-A11:01;HLA-C12:04, HLA-A11:01;HLA-C14:02, HLA-B51:01;HLA-B52:01, HLA-B51:01;HLA-C12:04;HLA-C14:02, HLA-B51:01;HLA-B52:01;HLA-C14:02, HLA-A03:01;HLA-A11:01;HLA-C14:02, HLA-B51:01;HLA-C12:04, HLA-A11:01;HLA-C12:04;HLA-C14:02, HLA-B51:01;HLA-B52:01;HLA-C12:04;HLA-C14:02, HLA-A03:01;HLA-A11:01;HLA-C12:04;HLA-C14:02, HLA-B52:01;HLA-C14:02, HLA-B52:01;HLA-C12:04;HLA-C14:02, HLA-A03:01;HLA-C12:04;HLA-C14:02, HLA-A11:01;HLA-C12:04, HLA-A32:01;HLA-C16:01, HLA-A32:01;HLA-B27:05, HLA-A03:01;HLA-A32:01;HLA-C16:01, HLA-A03:01;HLA-A32:01, HLA-B27:05;HLA-C16:01, HLA-A03:01;HLA-C16:01, HLA-B08:01;HLA-B15:186;HLA-C07:02, HLA-B07:02;HLA-B39:01, HLA-A02:01;HLA-B07:02;HLA-B39:01, HLA-B35:01;HLA-C04:01, HLA-A01:01;HLA-B39:24, HLA-A02:01;HLA-E01:01, HLA-B18:01;HLA-B45:01, HLA-A01:01;HLA-C05:01;HLA-C07:01, HLA-A02:01;HLA-B45:01, HLA-A01:01;HLA-A02:01;HLA-C05:01;HLA-C07:01, HLA-A02:01;HLA-B39:06;HLA-C07:02, HLA-A02:01;HLA-B39:06, HLA-B39:06;HLA-C07:02, HLA-A02:01;HLA-A24:02;HLA-C03:03, HLA-A24:02;HLA-B27:05, HLA-A02:01;HLA-C03:01;HLA-C16:01, HLA-B40:01;HLA-B44:03, HLA-B40:01;HLA-C03:01, HLA-C03:01;HLA-C16:01, HLA-A11:01;HLA-C03:01, HLA-B40:01;HLA-B44:03;HLA-C03:01, HLA-A03:01;HLA-A29:01
+Systemhc atlas data now: (428156, 20)
+Dropping data points with probability < 0.990000
+Systemhc atlas data now: (293273, 20)
+Removing duplicates
+Systemhc atlas data now: (85476, 20)
+Combined df: (732358, 28)
+Removing combined duplicates
+New combined df: (598483, 28)
+Final combined df: (598450, 8)
+Measurement sources:
+Admon - cellular MHC/mass spectrometry              67010
+Sette - purified MHC/competitive/radioactivity      60287
+kim2014                                             57675
+Purcell - cellular MHC/mass spectrometry            48486
+systemhc-atlas                                      46880
+                                                    ...  
+Vukmanović - cellular MHC/direct/fluorescence           1
+Mariuzza - purified MHC                                 1
+Shabanowitz - secreted MHC/mass spectrometry            1
+Yewdell - cellular MHC/competitive/radioactivity        1
+Purcell - secreted MHC/mass spectrometry                1
+Name: measurement_source, Length: 810, dtype: int64
+Measurement kind:
+mass_spec    375216
+affinity     223234
+Name: measurement_kind, dtype: int64
+Measurement source / kind:
+measurement_source                              measurement_kind
+Grzimek - T cell recognition                    affinity                1
+Hall - cellular MHC/direct/fluorescence         affinity                1
+Hansen - cellular MHC                           affinity                1
+Hausmann - cellular MHC/direct/fluorescence     affinity                1
+Shabanowitz - secreted MHC/mass spectrometry    mass_spec               1
+                                                                    ...  
+systemhc-atlas                                  mass_spec           46880
+Purcell - cellular MHC/mass spectrometry        mass_spec           48486
+kim2014                                         affinity            57675
+Sette - purified MHC/competitive/radioactivity  affinity            60287
+Admon - cellular MHC/mass spectrometry          mass_spec           67010
+Name: peptide, Length: 810, dtype: int64
+Wrote [598450 lines]: /private/var/folders/jc/fyrvcrcs3sb8g4mkdg6nl_t80000gq/T/mhcflurry-downloads-generation/data_curated/curated_training_data.no_additional_ms.csv
+
+real	2m12.830s
+user	2m4.008s
+sys	0m8.999s
+++ ls curated_training_data.affinity.csv curated_training_data.csv curated_training_data.mass_spec.csv curated_training_data.no_additional_ms.csv rna_expression.metadata.csv
++ for i in $(ls *.csv)
++ bzip2 curated_training_data.affinity.csv
++ for i in $(ls *.csv)
++ bzip2 curated_training_data.csv
++ for i in $(ls *.csv)
++ bzip2 curated_training_data.mass_spec.csv
++ for i in $(ls *.csv)
++ bzip2 curated_training_data.no_additional_ms.csv
++ for i in $(ls *.csv)
++ bzip2 rna_expression.metadata.csv
++ cp /Users/tim/sinai/git/mhcflurry/downloads-generation/data_curated/GENERATE.sh .
++ bzip2 LOG.txt
